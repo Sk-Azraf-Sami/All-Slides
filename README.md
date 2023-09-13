@@ -1,5 +1,8 @@
 # All-Slides
 
+## Download all sildes: 
+https://drive.google.com/drive/folders/1GMV9447OKWQeEfjE48TEglLPps-9oqZy?usp=drive_link
+
 ## This slide is on Topological Sort: 
 https://docs.google.com/presentation/d/1ihL5Lbz_Sd-gc2V68dsYncMvyVTxyJfW/edit?usp=sharing&ouid=118268971456743478877&rtpof=true&sd=true
 
