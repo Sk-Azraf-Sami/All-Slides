@@ -11,3 +11,6 @@ https://docs.google.com/presentation/d/1xa8XkLmLXy7J4i6b84N-K8PCz9-9fbT_12OrXdtS
 
 ## I designed this slide for a EEE topic "Demonstrate the operation of RC phase shift audio oscillator"
 https://docs.google.com/presentation/d/1JT_RZlPsnlozYBbKr95zUp_-KlIuFwGo/edit?usp=sharing&ouid=118268971456743478877&rtpof=true&sd=true
+
+## This slide is designed on IOS app development. Theme of our app is "Blood Donor Finder"
+https://docs.google.com/presentation/d/1nT3uQQ46wmbaErYESQA9I8HrK78CyGgK/edit?usp=sharing&ouid=118268971456743478877&rtpof=true&sd=true
