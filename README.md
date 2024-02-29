@@ -15,5 +15,5 @@ https://docs.google.com/presentation/d/1JT_RZlPsnlozYBbKr95zUp_-KlIuFwGo/edit?us
 ## This slide is designed on IOS app development. Theme of our app is "Blood Donor Finder"
 https://docs.google.com/presentation/d/1nT3uQQ46wmbaErYESQA9I8HrK78CyGgK/edit?usp=sharing&ouid=118268971456743478877&rtpof=true&sd=true
 
-## We develop a official website for DREAM (Blood Donation Club of KUET)
+## We develop official website for DREAM (Blood Donation Club of KUET)
 https://docs.google.com/presentation/d/1UTYdB6xQBq-48Zmbe9jnzd8mcMMduLcvPPiBUb777Xc/edit?usp=sharing
